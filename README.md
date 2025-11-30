@@ -9,6 +9,11 @@ This backend service allows users to:
 2.  **Manage Budgets**: Set monthly spending limits per category.
 3.  **View Summaries**: Get a monthly overview of total income, expenses, budget usage, and warnings for over-budget categories.
 
+## Demos
+
+[Test Demos](https://drive.google.com/file/d/1FIwvra6GlvEAP4GcwpsIDir6JxVnXKzJ/view?usp=sharing)
+[Endpoints Demos](https://drive.google.com/file/d/10ckRwxejndvnUgVJMvc3oW9c2wuIIn_g/view?usp=sharing)
+
 ## Architecture (DDD)
 
 The project follows Domain-Driven Design principles and is structured in modules:
@@ -42,7 +47,7 @@ The project follows Domain-Driven Design principles and is structured in modules
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/dibaxu/atena-nest-challenge
     cd atena-nest-challenge
     ```
 
